@@ -54,7 +54,7 @@ We performed several analyses to determine the impact of different factors on RO
   - Worldwide ROI: Significant difference (franchise movies yield higher ROI).
 
 ### Release Month Impact on ROI
-- **ANOVA Results***:
+- **ANOVA Results**:
   - Domestic ROI: F-statistic: 1.16, p-value: 0.31
   - Worldwide ROI: F-statistic: 1.43, p-value: 0.15
 -**Conclusion**: Failed to reject the null hypothesis, no significant ROI impact based on release month.
