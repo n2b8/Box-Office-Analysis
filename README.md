@@ -24,6 +24,21 @@ We used a mix of **CSV files, SQL databases**, and **API data** to gather inform
 
 ---
 
+## 3. Data Preparation
+### Key Data Cleaning and Preprocessing Steps:
+- **Handling Missing Data**: Missing genre information was filled using the TMDB API.
+- **Removing Duplicates**: Duplicate entries based on movie titles and release dates were removed.
+- **Handling Outliers**: Outlier personnel data mitigated through Winsorizing.
+- **Creating Additional Features**:
+    - **Primary Genre**: A column was created for each movie's primary genre.
+    - **Franchise/Collection**: Using the TMDB API, movies were labeled as part of a franchise or collection if applicable.
+    - **ROI Calculation**: Domestic and worldwide ROI were calculated based on production budgets and gross revenues.
+
+### Final Dataset Structure:
+- **Key Variables**: `production_budget`, `domestic_gross`, `worldwide_gross`, `roi_domestic`, `roi_worldwide`, `primary_genre`, `franchise`, `collection`, `release_month`.
+
+---
+
 ## Project Directory
 ```
 ├── README.md                   - This file, providing a comprehensive overview of the project and findings.
