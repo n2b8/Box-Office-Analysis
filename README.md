@@ -2,6 +2,9 @@
 
 ![Movie Theater Image](/images/movie-theater.jpg)
 
+---
+
+## Table of Contents
 <!-- TOC -->
 * [Movie Gold: Unlocking Box Office Success Through Data](#movie-gold-unlocking-box-office-success-through-data)
   * [1. Business Understanding](#1-business-understanding)
