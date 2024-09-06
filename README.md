@@ -1,5 +1,28 @@
 # Movie Gold: Unlocking Box Office Success Through Data
 
+<!-- TOC -->
+* [Movie Gold: Unlocking Box Office Success Through Data](#movie-gold-unlocking-box-office-success-through-data)
+  * [1. Business Understanding](#1-business-understanding)
+  * [2. Data Understanding](#2-data-understanding)
+    * [Data Breakdown:](#data-breakdown)
+  * [3. Data Preparation](#3-data-preparation)
+    * [Key Data Cleaning and Preprocessing Steps:](#key-data-cleaning-and-preprocessing-steps)
+    * [Final Dataset Structure:](#final-dataset-structure)
+  * [4. Modeling (Analysis)](#4-modeling-analysis)
+    * [Genre Impact on ROI](#genre-impact-on-roi)
+    * [Franchise Impact on ROI](#franchise-impact-on-roi)
+    * [Release Month Impact on ROI](#release-month-impact-on-roi)
+    * [Production Budget and ROI/Gross Revenue](#production-budget-and-roigross-revenue)
+    * [Personnel Impact (Directors, Actors, Writers)](#personnel-impact-directors-actors-writers)
+  * [5. Evaluation (Key Findings)](#5-evaluation-key-findings)
+  * [6. Deployment (Recommendations)](#6-deployment-recommendations)
+  * [7. Next Steps](#7-next-steps)
+    * [Focus on Horror and Thriller Genres](#focus-on-horror-and-thriller-genres)
+    * [Implementing a Netflix-Like Talent Strategy](#implementing-a-netflix-like-talent-strategy)
+  * [8. Contact Information](#8-contact-information)
+  * [Project Directory](#project-directory)
+<!-- TOC -->
+
 ## 1. Business Understanding
 The goal of this analysis is to provide insights into factors influencing movie success for a company planning to launch a new movie studio. Specifically, the analysis seeks to determine:
 1. Which **genres** yield the highest Return on Investment (ROI)?
