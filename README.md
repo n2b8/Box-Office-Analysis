@@ -81,6 +81,14 @@ We performed several analyses to determine the impact of different factors on RO
 
 ---
 
+## 6. Deployment (Recommendations)
+Based on the findings, we recommend the following strategies for the movie studio:
+1. **Focus on High-ROI Genres**: Prioritize producing **Horror, Animation, and Thriller** films as they yield the highest ROI.
+2. **Franchise Development**: Invest in building **movie franchises** or developing sequels/spin-offs, which tend to outperform standalone films in terms of financial returns.
+3. **Talent Investment**: Following the Netflix model, consider **contracting with top actors and writers** for multiple projects to ensure consistent quality and financial success.
+
+---
+
 ## Project Directory
 ```
 ├── README.md                   - This file, providing a comprehensive overview of the project and findings.
