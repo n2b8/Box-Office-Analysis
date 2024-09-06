@@ -73,6 +73,14 @@ We performed several analyses to determine the impact of different factors on RO
 
 ---
 
+## 5. Evaluation (Key Findings)
+1. **Genre**: Horror, Animation, and Thriller movies deliver the highest ROI. Genre significantly impacts both domestic and worldwide ROI.
+2. **Franchise**: Franchise movies perform significantly better in terms of ROI, both domestically and worldwide.
+3. **Production Budget**: While higher budgets correlate with increased gross revenue, they have minimal impact on ROI.
+4. **Key Personnel**: Writers and actors significantly influence both domestic and worldwide ROI, suggesting that investing in top-tier talent can lead to higher returns.
+
+---
+
 ## Project Directory
 ```
 ├── README.md                   - This file, providing a comprehensive overview of the project and findings.
