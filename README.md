@@ -39,6 +39,40 @@ We used a mix of **CSV files, SQL databases**, and **API data** to gather inform
 
 ---
 
+## 4. Modeling (Analysis)
+We performed several analyses to determine the impact of different factors on ROI and gross revenue:
+
+### Genre Impact on ROI
+- **ANOVA Results**:
+  - Domestic ROI: F-statistic: 3.63, p-value: 5.02e-08 (significant impact).
+  - Worldwide ROI: F-statistic: 4.25, p-value: 3.89e-10 (significant impact).
+- **Conclusion**: Horror, Animation, and Thriller genres have the highest ROI.
+
+### Franchise Impact on ROI
+- **T-test Results**:
+  - Domestic ROI: Significant difference (franchise movies yield higher ROI).
+  - Worldwide ROI: Significant difference (franchise movies yield higher ROI).
+
+### Release Month Impact on ROI
+- **ANOVA Results***:
+  - Domestic ROI: F-statistic: 1.16, p-value: 0.31
+  - Worldwide ROI: F-statistic: 1.43, p-value: 0.15
+-**Conclusion**: Failed to reject the null hypothesis, no significant ROI impact based on release month.
+
+### Production Budget and ROI/Gross Revenue
+- **Regression Results**:
+  - **Domestic ROI**: Weak negative correlation between budget and ROI (R² = 0.0055).
+  - **Domestic Gross**: Strong positive correlation between budget and gross (R² = 0.537).
+  - **Worldwide ROI**: Minimal effect of budget on ROI.
+  - **Worldwide Gross**: Strong positive correlation (R² = 0.639).
+
+### Personnel Impact (Directors, Actors, Writers)
+- **ANOVA Results**:
+  - Writers and actors significantly impact both domestic and worldwide ROI.
+  - Directors have a significant impact on worldwide ROI but minimal impact domestically.
+
+---
+
 ## Project Directory
 ```
 ├── README.md                   - This file, providing a comprehensive overview of the project and findings.
