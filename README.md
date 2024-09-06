@@ -108,6 +108,16 @@ By locking in talented individuals, as Netflix has done with figures like **Adam
 
 ---
 
+## 8. Contact Information
+
+For further questions or inquiries, feel free to reach out to me:
+
+- **Name**: Jake McCaig
+- **Email**: [McCaigJake@gmail.com](mailto:McCaigJake@gmail.com)
+- **LinkedIn**: [Jake McCaig](https://www.linkedin.com/in/jakemccaig/)
+
+---
+
 ## Project Directory
 ```
 ├── README.md                   - This file, providing a comprehensive overview of the project and findings.
