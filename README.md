@@ -11,6 +11,19 @@ These insights will guide stakeholders in making strategic decisions about the t
 
 ---
 
+## 2. Data Understanding
+We used a mix of **CSV files, SQL databases**, and **API data** to gather information:
+- **The Numbers (TN) Movie Budgets**: Box office and budget data.
+- **TMDB Movies**: Popularity and ratings.
+- **IMDb Database**: Personnel data (directors, actors, writers).
+- **TMDB API**: Supplemental data such as genres, franchise details, and collection names.
+
+### Data Breakdown:
+- **Date Range**: The dataset covers films from 1946 - Early Summer 2019.
+- **Number of Movies**: The merged dataset contains **over 2,100 movies** with detailed financial and personnel data.
+
+---
+
 ## Project Directory
 ```
 ├── README.md                   - This file, providing a comprehensive overview of the project and findings.
