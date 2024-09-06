@@ -89,6 +89,25 @@ Based on the findings, we recommend the following strategies for the movie studi
 
 ---
 
+## 7. Next Steps
+
+### Focus on Horror and Thriller Genres
+Given the insights gained from the analysis, we recommend further exploring the **Horror** and **Thriller** genres, as they typically yield the highest ROI. Drilling down within these genres could help us identify the specific sub-genres that perform the best. For example, a detailed investigation into the following could be valuable:
+- **Psychological Thrillers** vs. **Slasher Horrors**
+- The impact of different narrative styles and production values on ROI within these genres.
+
+By refining our understanding of which sub-genres perform best, we can make more informed investment decisions and improve the financial success of future projects.
+
+### Implementing a Netflix-Like Talent Strategy
+We should also consider adopting a talent contract model similar to **Netflix's approach**. Netflix often locks talent (actors, writers, and directors) into contracts for multiple projects over a given period. This allows them to:
+- Secure **top talent early** and retain them across multiple projects.
+- Build long-term relationships with promising **writers** and **actors** who have a significant positive impact on ROI.
+- Develop **franchise-like movie series** that can consistently perform well over time.
+
+By locking in talented individuals, as Netflix has done with figures like **Adam Sandler**, we can potentially reduce the risk of fluctuating talent costs while ensuring that quality content is consistently produced.
+
+---
+
 ## Project Directory
 ```
 ├── README.md                   - This file, providing a comprehensive overview of the project and findings.
