@@ -157,5 +157,7 @@ For further questions or inquiries, feel free to reach out to me:
     ├── rt.reviews.tsv.gz
     ├── tmdb.movies.csv.gz
     └── tn.movie_budgets.csv.gz
+└── images                      - Directory for storing image files
+    ├── movie-theater.jpg
 ├── .gitignore                  - Specifies which files and directories to ignore in version control.
 ```
