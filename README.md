@@ -1,5 +1,15 @@
-# Box-Office-Analysis
+# Movie Gold: Unlocking Box Office Success Through Data
 
+## 1. Business Understanding
+The goal of this analysis is to provide insights into factors influencing movie success for a company planning to launch a new movie studio. Specifically, the analysis seeks to determine:
+1. Which **genres** yield the highest Return on Investment (ROI)?
+2. Do **franchise movies** perform better than standalone films?
+3. How does **production budget** impact revenue and ROI?
+4. How do **directors, actors, and writers** influence movie success?
+
+These insights will guide stakeholders in making strategic decisions about the types of movies to produce, how to allocate budgets, and the value of franchises and talent.
+
+---
 
 ## Project Directory
 ```
