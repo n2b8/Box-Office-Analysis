@@ -153,14 +153,21 @@ For further questions or inquiries, feel free to reach out to me:
 ├── helper.py                   - A collection of custom functions written specifically for this project.
 ├── index.ipynb                 - Main analysis file containing data preparation, modeling, and evaluation.
 ├── presentation.pdf            - A non-technical presentation summarizing the findings and recommendations.
-└── zippedData                  - Contains various provided data sources
+├── merged_data_cleaned.csv     - CSV output of non-personnel data after cleaning.
+├── movie_credits.ipynb         - Notebook used to obtain movie credits data through TMDB API.
+└── zippedData/                 - Contains various provided data sources
     ├── bom.movie_gross.csv.gz
     ├── im.db.zip
     ├── rt.movie_info.tsv.gz
     ├── rt.reviews.tsv.gz
     ├── tmdb.movies.csv.gz
     └── tn.movie_budgets.csv.gz
-└── images                      - Directory for storing image files
+└── images/                      - Directory for storing image files
     ├── movie-theater.jpg
-├── .gitignore                  - Specifies which files and directories to ignore in version control.
+└── apiData/                     - Directory containing data obtained from TMDB API.
+    ├── actors_data.csv
+    ├── directors_data.csv
+    ├── producers_data.csv
+    ├── writers_data.csv          
+├── .gitignore                   - Specifies which files and directories to ignore in version control.
 ```
