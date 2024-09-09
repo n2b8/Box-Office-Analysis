@@ -154,7 +154,6 @@ For further questions or inquiries, feel free to reach out to me:
 ├── index.ipynb                 - Main analysis file containing data preparation, modeling, and evaluation.
 ├── presentation.pdf            - A non-technical presentation summarizing the findings and recommendations.
 ├── merged_data_cleaned.csv     - CSV output of non-personnel data after cleaning.
-├── movie_credits.ipynb         - Notebook used to obtain movie credits data through TMDB API.
 └── zippedData/                 - Contains various provided data sources
     ├── bom.movie_gross.csv.gz
     ├── im.db.zip
@@ -163,11 +162,6 @@ For further questions or inquiries, feel free to reach out to me:
     ├── tmdb.movies.csv.gz
     └── tn.movie_budgets.csv.gz
 └── images/                      - Directory for storing image files
-    ├── movie-theater.jpg
-└── apiData/                     - Directory containing data obtained from TMDB API.
-    ├── actors_data.csv
-    ├── directors_data.csv
-    ├── producers_data.csv
-    ├── writers_data.csv          
+    ├── movie-theater.jpg        
 ├── .gitignore                   - Specifies which files and directories to ignore in version control.
 ```
